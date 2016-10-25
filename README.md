@@ -1,5 +1,5 @@
 # ExtendEventEditText
-Расширенный Edittext с кликабельными левим и правим drawables
+Advanced EditText with clickable left and right drawables
 
 Add it in your root build.gradle at the end of repositories:
 ```gradle
